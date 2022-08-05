@@ -1,0 +1,21 @@
+{
+  "name": "demoslot88-situs-rtp-slot-gacor-terbaru-mudah-maxwin",
+  "main": "/demoslot88-situs-rtp-slot-gacor-terbaru-mudah-maxwin",
+  "version": "2.0.1",
+  "description": "DemoSlot88 sangatlah terkenal sebagai situs RTP slot gacor terbaru mudah maxwin tahun 2022 ini yang pasti disukai oleh para pemain RTP slot Indonesia.",
+  "keywords": [
+    "rtp slot",
+    "rtp slot gacor",
+    "demoslot88 rtp slot",
+    "demoslot88 rtp slot gacor",
+    "demoslot88 rtp slot gacor terbaru"
+  ],
+  "activationCommands": {
+    "atom-workspace": "demoslot88-situs-rtp-slot-gacor-terbaru-mudah-maxwin:toggle"
+  },
+  "repository": "https://github.com/chargeraccount138/demoslot88-situs-rtp-slot-gacor-terbaru-mudah-maxwin.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
